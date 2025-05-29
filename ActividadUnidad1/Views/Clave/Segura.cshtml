@@ -1,0 +1,10 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Contraseña segura";
+}
+
+<h1>Verificacion de contraseña segura</h1>
+<p>Contraseña ingresada: @ViewBag.Pass</p>
+<p>La contraseña ingresada es segura? @(ViewBag.seguro ? "Si" : "No")</p>

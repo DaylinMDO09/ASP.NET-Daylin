@@ -1,0 +1,10 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Verificacion de Años Bisiestos";
+}
+
+<h1>Verificacion de año bisiesto</h1>
+<p>Año ingresado: @ViewBag.Anio</p>
+<p>Este año es bisiesto: @(ViewBag.bisiesto ? "Si" : "No")</p>

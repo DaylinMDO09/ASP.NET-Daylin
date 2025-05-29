@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|c:\\users\\daylin\\desktop\\documentos importantes\\tareas 2025\\lenguaje de programacion iii\\asp.net-daylin\\actividad2unidad1\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|solutionrelative:controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|c:\\users\\daylin\\desktop\\documentos importantes\\tareas 2025\\lenguaje de programacion iii\\asp.net-daylin\\actividad2unidad1\\views\\moneda\\cambiomoneda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|solutionrelative:views\\moneda\\cambiomoneda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|c:\\users\\daylin\\desktop\\documentos importantes\\tareas 2025\\lenguaje de programacion iii\\asp.net-daylin\\actividad2unidad1\\views\\moneda\\conversion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD52B23-5561-4384-8B33-D70E6AC0CAD4}|Actividad2Unidad1.csproj|solutionrelative:views\\moneda\\conversion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 330,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conversion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Views\\Moneda\\Conversion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Moneda\\Conversion.cshtml",
+              "ToolTip": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Views\\Moneda\\Conversion.cshtml",
+              "RelativeToolTip": "Views\\Moneda\\Conversion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T04:10:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CambioMoneda.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Views\\Moneda\\CambioMoneda.cshtml",
+              "RelativeDocumentMoniker": "Views\\Moneda\\CambioMoneda.cshtml",
+              "ToolTip": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Views\\Moneda\\CambioMoneda.cshtml",
+              "RelativeToolTip": "Views\\Moneda\\CambioMoneda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T04:03:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonedaController.cs",
+              "DocumentMoniker": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Controllers\\MonedaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonedaController.cs",
+              "ToolTip": "C:\\Users\\Daylin\\Desktop\\Documentos Importantes\\Tareas 2025\\LENGUAJE DE PROGRAMACION III\\ASP.NET-Daylin\\Actividad2Unidad1\\Controllers\\MonedaController.cs",
+              "RelativeToolTip": "Controllers\\MonedaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:46:54.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

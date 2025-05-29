@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Convertidor de Divisa";
+}
+
+<h1>Conversion de pesos dominicanos</h1>
+
+<form method="post" action="@Url.Action("Conversion")">
+    <label for="monto">Ingresa el monto en pesos dominicanos: </label>
+    <input type="number" id="monto" name="monto" required min="1" />
+
+    <label for="divisa">Seleccione la divisa: </label>
+    <select id="divisa" name="divisa">
+        <option value="dolar">Dolar</option>
+        <option value="euro">Euro</option>
+        <option value="libras esterlinas">Libras Esterlinas</option>
+        <option value="franco suizo">Franco Suizo</option>
+    </select>
+
+    <button type="submit">Convertir</button>
+</form>

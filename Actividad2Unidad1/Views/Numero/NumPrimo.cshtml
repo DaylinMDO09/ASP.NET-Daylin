@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.title = "NumPrimo";
+}
+
+<h1>Confirmar si es primo</h1>
+
+<form method="post" action="@Url.Action("Confirmar")">
+    <label for="num">Escribe un numero: </label>
+    <input type="number" id="num" name="num" required />
+    <button type="submit">Verificar</button>
+</form>
